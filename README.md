@@ -29,5 +29,5 @@ I have an academic background in biomedical engineering, performed AI/ML researc
 ### Connect With Me:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=About.me&logoColor=white)](https://www.thorlarson.me)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thor-jlarson/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thorjlarson/)
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thor.jlarson@gmail.com)
